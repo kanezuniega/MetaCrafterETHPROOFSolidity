@@ -55,7 +55,7 @@ Once the contract is deployed, you can interact with it by transacting with the 
 ## Authors
 
 ZUNIEGA, Kane Nathaniel O. 
-FEU Institute of Technology
+## FEU Institute of Technology
 
 
 ## License
